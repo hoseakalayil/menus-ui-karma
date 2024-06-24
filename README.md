@@ -1,3 +1,6 @@
+# Menus-UI-Karma
+Menus ui runs on Karma v5.2.3. There is a security vulnerability with the dependecies of karma in this version. We cant upgrade Karma since it has breaking changes. So this is a patch version of karma which we can use that does not have the vulnerability.
+
 # Karma
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/karma-runner/karma) [![npm version](https://img.shields.io/npm/v/karma.svg?style=flat-square)](https://www.npmjs.com/package/karma) [![npm downloads](https://img.shields.io/npm/dm/karma.svg?style=flat-square)](https://npmcharts.com/compare/karma?minimal=true)
 
